@@ -1,0 +1,10 @@
+.content-1__block {
+  background-color: #ebc28493;
+  font-size: 2rem;
+  box-sizing: border-box;
+  padding: 25px 25px 0px;
+  width: 50vw;
+  margin: 50px;
+  height: 100px;
+  overflow: scroll;
+}
